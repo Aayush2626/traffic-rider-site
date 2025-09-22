@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/game/static/css/main.52951a3a.css",
-    "main.js": "/game/static/js/main.84bdab2c.js",
-    "static/js/453.670e15c7.chunk.js": "/game/static/js/453.670e15c7.chunk.js",
-    "index.html": "/game/index.html",
-    "main.52951a3a.css.map": "/game/static/css/main.52951a3a.css.map",
-    "main.84bdab2c.js.map": "/game/static/js/main.84bdab2c.js.map",
-    "453.670e15c7.chunk.js.map": "/game/static/js/453.670e15c7.chunk.js.map"
+    "main.css": "/traffic-rider-site/docs/static/css/main.52951a3a.css",
+    "main.js": "/traffic-rider-site/docs/static/js/main.a3ce8861.js",
+    "static/js/453.670e15c7.chunk.js": "/traffic-rider-site/docs/static/js/453.670e15c7.chunk.js",
+    "index.html": "/traffic-rider-site/docs/index.html",
+    "main.52951a3a.css.map": "/traffic-rider-site/docs/static/css/main.52951a3a.css.map",
+    "main.a3ce8861.js.map": "/traffic-rider-site/docs/static/js/main.a3ce8861.js.map",
+    "453.670e15c7.chunk.js.map": "/traffic-rider-site/docs/static/js/453.670e15c7.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.52951a3a.css",
-    "static/js/main.84bdab2c.js"
+    "static/js/main.a3ce8861.js"
   ]
 }
